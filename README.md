@@ -1,4 +1,4 @@
-# lifelog
+# Lifelog
 
 The main topics of interest include (although not limited to):
 
@@ -18,6 +18,7 @@ The main topics of interest include (although not limited to):
 
 ## Workshop
 * http://lta2017.computing.dcu.ie/index.html
+* Activities of Daily Living understanding (https://www.crowdai.org/challenges/imageclef-2018-lifelog-adlt, https://www.imageclef.org/2018/lifelog)
 
 ## Papers and journal
 
