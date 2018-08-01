@@ -2,4 +2,4 @@
 
 ## Datasets
 
-* A 2 month Ego-vision Dataset with Autographer Wearable Camera and 2 users (https://github.com/NataliaDiaz/Egoshots)
+* A 2 month Egocentric vision Dataset with Autographer Wearable Camera and 2 users (https://github.com/NataliaDiaz/Egoshots)
